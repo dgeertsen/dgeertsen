@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devon</h1>
 <h3 align="center">A passionate developer from Montana</h3>
 
-- 🔭 I’m currently attending **Montana Code School, Back-End Software Development Bootcamp.**
+- 🔭 I’m currently attending **Montana Code School, Back-End Software Development Bootcamp from Promineo Tech.**
 
 - 🌱 I’m currently learning **Java, SQL and SpringBoot**
 
 - 💬 Ask me about **RPGIV & CL.**
-
-- 📫 How to reach me **devon.geertsen@gmail.com**
-
 
  <h3 align="left">Languages and Tools:</h3>
   <p align="left">

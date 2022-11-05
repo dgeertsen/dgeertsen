@@ -9,7 +9,7 @@
 
 - 💻 I currently work in the logistics space supporting a custom **iSeries Application**
 
-- 🏫I have a **Bachelors of Business Administration degree, majoring in Management Information Systems** & a minor in Computer Science** from 
+- 🏫I have a **Bachelors of Business Administration degree, majoring in Management Information Systems** & a minor in **Computer Science** from 
      the **University of  Montana**
 
 - 💬 Ask me about **RPGIV & CL.**

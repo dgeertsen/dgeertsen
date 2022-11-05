@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Devon</h1>
 <h3 align="center">A passionate developer from Montana</h3>
 
+-
+
 - 🔭 I’m currently attending **Montana Code School, Back-End Software Development Bootcamp from Promineo Tech.**
 
 - 🌱 I’m currently learning **Java, SQL and SpringBoot**
+
+- 💻 I currently work in the logistics space supporting a custom **iSeries Application**
+
+- 🏫I have a **Bachelors of Business Administration degree, majoring in Management Information Systems** & a minor in Computer Science** from 
+     the **University of  Montana**
 
 - 💬 Ask me about **RPGIV & CL.**
 

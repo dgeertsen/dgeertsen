@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **RPGIV & CL.**
 
+- 🚴‍♂️ Outside of programming I love to travel, bike, hike, paddleboard, camp, go to concerts, photography wildlife and play video games. 
+
  <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">

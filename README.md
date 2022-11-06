@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Devon</h1>
-<h3 align="center">A passionate developer from Montana</h3>
+![github-header-image (19)](https://user-images.githubusercontent.com/95052155/200149163-6fb9a019-1b18-49ed-86e3-f7903c6b26e1.png)
+
 
 - 🔭 I’m currently attending **Montana Code School, Back-End Software Development Bootcamp from Promineo Tech.**
 

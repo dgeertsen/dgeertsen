@@ -1,4 +1,4 @@
-![github-header-image (19)](https://user-images.githubusercontent.com/95052155/200149163-6fb9a019-1b18-49ed-86e3-f7903c6b26e1.png)
+![github-header-image](https://user-images.githubusercontent.com/95052155/200149189-fa3e8279-2720-464e-9456-31d6683112e7.png)
 
 
 - 🔭 I’m currently attending **Montana Code School, Back-End Software Development Bootcamp from Promineo Tech.**

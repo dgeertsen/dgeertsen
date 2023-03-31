@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, SQL and SpringBoot**
 
-- 💻 I currently work in the logistics industry supporting an **IT Developer**
+- 💻 I currently work in the logistics industry as an **IT Developer**
 
 - 🏫I have a **Bachelors of Business Administration degree, majoring in Management Information Systems** & a minor in **Computer Science** from 
      the **University of  Montana**
